@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ZADANIE_2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  Assembling SumArrayMACRO2_TheThirdTask.asm...
-  ZADANIE2.vcxproj -> D:\POIS 2021-2022\System Programming\LAB4\ZADANIE2\Debug\ZADANIE2.exe
