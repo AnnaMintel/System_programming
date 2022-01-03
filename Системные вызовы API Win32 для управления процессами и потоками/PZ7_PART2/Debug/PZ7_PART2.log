@@ -1,0 +1,4 @@
+﻿  Thread_1.cpp
+D:\POIS 2021-2022\System Programming\ПЗ 7\PZ7_PART2\Thread_1.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\POIS 2021-2022\System Programming\ПЗ 7\PZ7_PART2\Thread_1.cpp(11,22): warning C4101: pi: неиспользованная локальная переменная
+  PZ7_PART2.vcxproj -> D:\POIS 2021-2022\System Programming\ПЗ 7\PZ7_PART2\Debug\PZ7_PART2.exe
