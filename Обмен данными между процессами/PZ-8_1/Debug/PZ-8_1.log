@@ -1,0 +1,3 @@
+﻿  main-mutex.cpp
+D:\Ovchinko\PZ-8_1\main-mutex.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PZ-8_1.vcxproj -> D:\Ovchinko\PZ-8_1\Debug\PZ-8_1.exe

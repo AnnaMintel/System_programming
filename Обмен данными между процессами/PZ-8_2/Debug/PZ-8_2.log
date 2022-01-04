@@ -1,0 +1,3 @@
+﻿  slave-mutex.cpp
+D:\Ovchinko\PZ-8_2\slave-mutex.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PZ-8_2.vcxproj -> D:\Ovchinko\PZ-8_1\Debug\PZ-8_2.exe
